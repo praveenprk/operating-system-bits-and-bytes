@@ -50,7 +50,7 @@ This creation of illusion is called virtualisation [1]. When OS creates an illus
 
 That is the first goal of an OS: Virtualisation.
 
-Now each program is **contained** within its virtual environment**,** within their own created illusion. Each program is safe. Their data and code safe, for now.
+Now each program is **contained** within its virtual environment. Within their own created illusion. Each program is safe. Their data and code safe, for now.
 
 **Now let’s see what is happening roughly step by step:**
 
