@@ -1,5 +1,6 @@
-***
-# Abstractions
+* * * * *
+
+### Abstractions
 
 ![](https://cdn-images-1.medium.com/max/1600/0*50jkUIEsHsgc9hCs)
 
@@ -45,4 +46,8 @@ If abstractions has enabled us humans to land on moon. Then, it must do for OS w
 
 OS provides many such abstractions to work with. One of them is Process.
 
-Next, we cover What is Process?
+A program or app that runs on your computer is a process eventually. To know what is a process, you should know what is a program? So far, I have been using these terms, app, program, software, interchangeably. And we know that a CPU runs many programs.
+
+So next, we will cover what is Program. Then we will see what a Process is. It will make much sense then.
+
+* * * * *
